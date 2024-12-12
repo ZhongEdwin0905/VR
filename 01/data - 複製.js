@@ -189,7 +189,7 @@ var APP_DATA = {
   "name": "奇蹟廣場",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": true
   }

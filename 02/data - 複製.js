@@ -231,7 +231,7 @@ var APP_DATA = {
   "name": "比薩斜塔",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": true
   }

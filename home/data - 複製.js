@@ -41,7 +41,7 @@ var APP_DATA = {
           "yaw": 3.0638970315084624,
           "pitch": -0.29219303723489176,
           "title": "比薩主教座堂",
-          "text": "比薩主教座堂（義大利語：Duomo di Pisa），正式名稱為聖母升天主教座堂（Cattedrale di Santa Maria Assunta），是天主教比薩總教區的主教座堂，位於義大利城市比薩的奇蹟廣場，建於中世紀的羅曼式建築傑作，代表比薩共和國的威望和財富。著名的比薩斜塔即為該教堂的鐘樓。"
+          "text": "Text"
         }
       ]
     },
@@ -167,7 +167,7 @@ var APP_DATA = {
   "name": "比薩主教座堂",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": true
   }
